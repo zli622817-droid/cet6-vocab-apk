@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "3.1",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.1/vocab.apk",
-  "notes": "删自制顶栏，今日计数移底部，字体扫/Fonts目录"
+  "versionCode": 23,
+  "versionName": "3.2",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.2/vocab.apk",
+  "notes": "恢复音量键正常调节音量"
 }
