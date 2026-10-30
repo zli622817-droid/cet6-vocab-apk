@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "2.9",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v2.9/vocab.apk",
-  "notes": "修复状态栏下拉，字体列表只扫system/fonts"
+  "versionCode": 21,
+  "versionName": "3.0",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.0/vocab.apk",
+  "notes": "状态栏常显，字体列表仅中文"
 }
