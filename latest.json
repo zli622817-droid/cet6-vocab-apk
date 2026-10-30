@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "2.8",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v2.8/vocab.apk",
-  "notes": "字体列表移到设置页，状态栏可下拉，自动删安装包"
+  "versionCode": 20,
+  "versionName": "2.9",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v2.9/vocab.apk",
+  "notes": "修复状态栏下拉，字体列表只扫system/fonts"
 }
