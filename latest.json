@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "2.2",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v2.2/vocab.apk",
-  "notes": "修复检查更新弹窗显示"
+  "versionCode": 14,
+  "versionName": "2.3",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v2.3/vocab.apk",
+  "notes": "长按设置按钮可调字号"
 }
