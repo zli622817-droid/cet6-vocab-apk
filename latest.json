@@ -2,5 +2,5 @@
   "versionCode": 17,
   "versionName": "2.6",
   "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v2.6/vocab.apk",
-  "notes": "修复字号调节bug和长按误触"
+  "notes": "修复字号bug+字体选择+自适应+状态栏可见"
 }
