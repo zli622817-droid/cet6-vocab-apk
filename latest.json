@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "3.28",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.28/vocab.apk",
-  "notes": "重启恢复到上次正在学的单词"
+  "versionCode": 49,
+  "versionName": "3.29",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.29/vocab.apk",
+  "notes": "开屏显示加载中，避免单词闪一下"
 }
