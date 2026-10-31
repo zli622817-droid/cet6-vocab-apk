@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "3.15",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.15/vocab.apk",
-  "notes": "音量键直接打分不用先翻面"
+  "versionCode": 37,
+  "versionName": "3.16",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.16/vocab.apk",
+  "notes": "下键翻面/认识，上键不认识"
 }
