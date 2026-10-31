@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "3.9",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.9/vocab.apk",
-  "notes": "修复Android11字体读取权限，自动申请所有文件访问"
+  "versionCode": 31,
+  "versionName": "3.10",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.10/vocab.apk",
+  "notes": "去掉电量显示，今日计数居中放大"
 }
