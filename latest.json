@@ -1,6 +1,6 @@
 {
-  "versionCode": 86,
-  "versionName": "3.66",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.66/vocab.apk",
-  "notes": "开屏进度条放大，百分比数字加粗变大，进度跳变更明显"
+  "versionCode": 87,
+  "versionName": "3.67",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.67/vocab.apk",
+  "notes": "去掉进度条，恢复加载中文字，开屏秒进"
 }
