@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "3.35",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.35/vocab.apk",
-  "notes": "恢复进度后弹出提示已恢复上次进度"
+  "versionCode": 56,
+  "versionName": "3.36",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.36/vocab.apk",
+  "notes": "统计标签改为已掌握/不认识，恢复进度弹窗提示"
 }
