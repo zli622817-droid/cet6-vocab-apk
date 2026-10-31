@@ -1,6 +1,6 @@
 {
-  "versionCode": 50,
-  "versionName": "3.30",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.30/vocab.apk",
-  "notes": "修复打分后不切换下一个单词的问题"
+  "versionCode": 51,
+  "versionName": "3.31",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.31/vocab.apk",
+  "notes": "彻底修复打分后不切换下一个单词的问题"
 }
