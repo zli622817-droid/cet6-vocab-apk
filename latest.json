@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "3.32",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.32/vocab.apk",
-  "notes": "今日已学下方加进度条，加载中字体缩小"
+  "versionCode": 53,
+  "versionName": "3.33",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.33/vocab.apk",
+  "notes": "开屏加载进度条，今日已学和进度条居中"
 }
