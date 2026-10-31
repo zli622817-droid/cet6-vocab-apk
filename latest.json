@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "3.33",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.33/vocab.apk",
-  "notes": "开屏加载进度条，今日已学和进度条居中"
+  "versionCode": 54,
+  "versionName": "3.34",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.34/vocab.apk",
+  "notes": "修复WebView CORS导致检测不到更新的问题"
 }
