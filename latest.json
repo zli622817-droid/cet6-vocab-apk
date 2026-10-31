@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "3.21",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.21/vocab.apk",
-  "notes": "返回键：子页面回学习页，首页退出"
+  "versionCode": 43,
+  "versionName": "3.22",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.22/vocab.apk",
+  "notes": "设置页标题栏加顶/底快速滚动按钮"
 }
