@@ -1,6 +1,6 @@
 {
-  "versionCode": 78,
-  "versionName": "3.58",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.58/vocab.apk",
-  "notes": "人偶放大下移，加载提示改为加载中文字"
+  "versionCode": 83,
+  "versionName": "3.63",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.63/vocab.apk",
+  "notes": "翻页改为每N词全屏刷新清残影，加手动刷新按钮"
 }
