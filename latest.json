@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "3.41",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.41/vocab.apk",
-  "notes": "不限量开关，释义自适应缩小，箭头符号按钮，不限量时隐藏还需和进度条"
+  "versionCode": 62,
+  "versionName": "3.42",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.42/vocab.apk",
+  "notes": "箭头符号放大去边框，不限量自动刷新回主页，保留今日已学计数"
 }
