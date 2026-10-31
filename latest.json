@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "3.5",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.5/vocab.apk",
-  "notes": "修复后台白屏，修复字体读取权限"
+  "versionCode": 27,
+  "versionName": "3.6",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.6/vocab.apk",
+  "notes": "修复后台白屏，修复图标"
 }
