@@ -1,6 +1,6 @@
 {
-  "versionCode": 75,
-  "versionName": "3.55",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.55/vocab.apk",
-  "notes": "人偶放大下移，后台端口改8081，开屏动画强制1.5秒可见"
+  "versionCode": 76,
+  "versionName": "3.56",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.56/vocab.apk",
+  "notes": "人偶放大到90%再下移，5个黑点500ms轮流亮，墨水屏友好"
 }
