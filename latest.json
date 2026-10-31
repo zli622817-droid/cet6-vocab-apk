@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "3.19",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.19/vocab.apk",
-  "notes": "每日新词限制生效，后台不认识单词列表修复"
+  "versionCode": 41,
+  "versionName": "3.20",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.20/vocab.apk",
+  "notes": "Home键：非首页返回学习页，首页退出桌面"
 }
