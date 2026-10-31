@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "3.18",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.18/vocab.apk",
-  "notes": "修复后台API连接问题"
+  "versionCode": 40,
+  "versionName": "3.19",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.19/vocab.apk",
+  "notes": "每日新词限制生效，后台不认识单词列表修复"
 }
