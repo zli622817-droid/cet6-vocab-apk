@@ -1,6 +1,6 @@
 {
-  "versionCode": 77,
-  "versionName": "3.57",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.57/vocab.apk",
-  "notes": "改用setTimeout链式切换黑点，墨水屏正确刷新"
+  "versionCode": 78,
+  "versionName": "3.58",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.58/vocab.apk",
+  "notes": "人偶放大下移，加载提示改为加载中文字"
 }
