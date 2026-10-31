@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "3.7",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.7/vocab.apk",
-  "notes": "自定义字体文件夹路径"
+  "versionCode": 29,
+  "versionName": "3.8",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.8/vocab.apk",
+  "notes": "支持浏览选字体文件"
 }
