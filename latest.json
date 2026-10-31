@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "3.13",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.13/vocab.apk",
-  "notes": "屏蔽长按复制粘贴"
+  "versionCode": 35,
+  "versionName": "3.14",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.14/vocab.apk",
+  "notes": "修复v3.13打不开，屏蔽复制粘贴"
 }
