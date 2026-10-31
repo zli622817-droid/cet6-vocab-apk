@@ -1,6 +1,6 @@
 {
-  "versionCode": 88,
-  "versionName": "3.68",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.68/vocab.apk",
-  "notes": "紧急修复启动崩溃"
+  "versionCode": 89,
+  "versionName": "3.69",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.69/vocab.apk",
+  "notes": "去掉开屏动画，直接进主页秒开"
 }
