@@ -1,6 +1,6 @@
 {
-  "versionCode": 67,
-  "versionName": "3.47",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.47/vocab.apk",
-  "notes": "修复v3.46去掉导入按钮后JS崩溃卡在加载中的问题"
+  "versionCode": 68,
+  "versionName": "3.48",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.48/vocab.apk",
+  "notes": "去掉恢复六级词库按钮"
 }
