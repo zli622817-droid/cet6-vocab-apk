@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "3.24",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.24/vocab.apk",
-  "notes": "认识即掌握不再复习，当天学过的单词不重复"
+  "versionCode": 46,
+  "versionName": "3.25",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.25/vocab.apk",
+  "notes": "重启自动恢复上次学习进度，继续学剩余单词"
 }
