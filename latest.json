@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "3.16",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.16/vocab.apk",
-  "notes": "下键翻面/认识，上键不认识"
+  "versionCode": 38,
+  "versionName": "3.17",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.17/vocab.apk",
+  "notes": "后台显示不认识单词+设置每日学习量"
 }
