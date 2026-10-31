@@ -1,6 +1,6 @@
 {
-  "versionCode": 83,
-  "versionName": "3.63",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.63/vocab.apk",
-  "notes": "翻页改为每N词全屏刷新清残影，加手动刷新按钮"
+  "versionCode": 85,
+  "versionName": "3.65",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.65/vocab.apk",
+  "notes": "全屏刷新改为闪白屏强制清残影，开屏进度条自动增长"
 }
