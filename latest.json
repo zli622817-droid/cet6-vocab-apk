@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
-  "versionName": "3.27",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.27/vocab.apk",
-  "notes": "首页显示今日已学/还需数量"
+  "versionCode": 48,
+  "versionName": "3.28",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.28/vocab.apk",
+  "notes": "重启恢复到上次正在学的单词"
 }
