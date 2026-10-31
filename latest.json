@@ -1,6 +1,6 @@
 {
-  "versionCode": 71,
-  "versionName": "3.51",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.51/vocab.apk",
-  "notes": "开屏改为捧书人偶，从下往上变黑加载动画"
+  "versionCode": 72,
+  "versionName": "3.52",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.52/vocab.apk",
+  "notes": "人偶放大居中，分步从下往上变黑动画"
 }
