@@ -1,6 +1,6 @@
 {
-  "versionCode": 57,
-  "versionName": "3.37",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.37/vocab.apk",
-  "notes": "统计设置移到右下角悬浮按钮，单词区域限制高度防溢出"
+  "versionCode": 61,
+  "versionName": "3.41",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.41/vocab.apk",
+  "notes": "不限量开关，释义自适应缩小，箭头符号按钮，不限量时隐藏还需和进度条"
 }
