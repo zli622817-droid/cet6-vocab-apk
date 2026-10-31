@@ -1,6 +1,6 @@
 {
-  "versionCode": 66,
-  "versionName": "3.46",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.46/vocab.apk",
-  "notes": "不限量显示∞，开关加描边，去掉导入词库，优化内存流畅度，修复单词被挤压，标题字体调大"
+  "versionCode": 67,
+  "versionName": "3.47",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.47/vocab.apk",
+  "notes": "修复v3.46去掉导入按钮后JS崩溃卡在加载中的问题"
 }
