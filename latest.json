@@ -1,6 +1,6 @@
 {
-  "versionCode": 92,
-  "versionName": "3.72",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.72/vocab.apk",
-  "notes": "词库异步加载，先显示主页再恢复进度，加快启动速度"
+  "versionCode": 93,
+  "versionName": "3.73",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.73/vocab.apk",
+  "notes": "词库延迟解析，先显示主页界面，加快低配置设备启动速度"
 }
