@@ -1,6 +1,6 @@
 {
-  "versionCode": 100,
-  "versionName": "3.80",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.80/vocab.apk",
-  "notes": "修复开屏图显示、点单词例句、不限量提前学完三个问题"
+  "versionCode": 101,
+  "versionName": "3.81",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.81/vocab.apk",
+  "notes": "修复开屏图不显示、完整词库加载完才结束加载状态"
 }
