@@ -1,6 +1,6 @@
 {
-  "versionCode": 96,
-  "versionName": "3.76",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.76/vocab.apk",
-  "notes": "先加载前20个词秒开，剩余词库后台加载"
+  "versionCode": 97,
+  "versionName": "3.77",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.77/vocab.apk",
+  "notes": "翻面后点单词切换显示例句，例句中的单词加下划线"
 }
