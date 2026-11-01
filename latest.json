@@ -1,6 +1,6 @@
 {
-  "versionCode": 94,
-  "versionName": "3.74",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.74/vocab.apk",
-  "notes": "词库移到Java端加载，WebView只加载36KB HTML秒进主页，词库后台加载完自动恢复进度"
+  "versionCode": 95,
+  "versionName": "3.75",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.75/vocab.apk",
+  "notes": "先加载前50个词立刻能用，剩余词库后台加载，进一步加快启动速度"
 }
