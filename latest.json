@@ -1,6 +1,6 @@
 {
-  "versionCode": 91,
-  "versionName": "3.71",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.71/vocab.apk",
-  "notes": "修复词库加载顺序导致页面显示源码的问题"
+  "versionCode": 92,
+  "versionName": "3.72",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.72/vocab.apk",
+  "notes": "词库异步加载，先显示主页再恢复进度，加快启动速度"
 }
