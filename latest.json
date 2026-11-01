@@ -1,6 +1,6 @@
 {
-  "versionCode": 106,
-  "versionName": "3.86",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.86/vocab.apk",
-  "notes": "无感加载：墨词开屏图一直显示到词库和主页都准备好，直接切换无白屏无加载提示"
+  "versionCode": 107,
+  "versionName": "3.87",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.87/vocab.apk",
+  "notes": "修复词库加载时机问题，加3秒超时兜底，不会卡在开屏图"
 }
