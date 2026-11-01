@@ -1,6 +1,6 @@
 {
-  "versionCode": 103,
-  "versionName": "3.83",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.83/vocab.apk",
-  "notes": "开屏显示2秒墨词书法字，期间Java端读完整个词库，打开就有完整词库不会出现加载中"
+  "versionCode": 104,
+  "versionName": "3.84",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.84/vocab.apk",
+  "notes": "先读完整个词库再加载WebView，开屏显示墨词后直接进入主页，不会白屏不会出现加载中"
 }
