@@ -1,6 +1,6 @@
 {
-  "versionCode": 89,
-  "versionName": "3.69",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.69/vocab.apk",
-  "notes": "去掉开屏动画，直接进主页秒开"
+  "versionCode": 90,
+  "versionName": "3.70",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.70/vocab.apk",
+  "notes": "词库拆到独立文件，优化低配置设备打开速度"
 }
