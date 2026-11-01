@@ -1,6 +1,6 @@
 {
-  "versionCode": 109,
-  "versionName": "3.89",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.89/vocab.apk",
-  "notes": "恢复v3.77稳定版加载方式，修复杂白屏问题"
+  "versionCode": 110,
+  "versionName": "3.90",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.90/vocab.apk",
+  "notes": "修复词库JSON格式错误导致的白屏问题，现在可以正常进入主页"
 }
