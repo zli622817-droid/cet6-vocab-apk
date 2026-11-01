@@ -1,6 +1,6 @@
 {
-  "versionCode": 98,
-  "versionName": "3.78",
-  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.78/vocab.apk",
-  "notes": "开屏加墨词书法字，居中显示不铺满"
+  "versionCode": 99,
+  "versionName": "3.79",
+  "apkUrl": "https://github.com/zli622817-droid/cet6-vocab-apk/releases/download/v3.79/vocab.apk",
+  "notes": "修复开屏splash盖住界面导致没有音标题词的问题"
 }
